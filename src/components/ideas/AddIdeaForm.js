@@ -148,7 +148,7 @@ export default function AddIdeaForm() {
           </Field>
 
           <button type="submit" disabled={isSubmitting} className="btn-primary w-full text-base">
-            {isSubmitting ? "Submitting..." : "Submit Idea 🚀"}
+            {isSubmitting ? "Submitting..." : "Submit Idea "}
           </button>
         </form>
       </div>

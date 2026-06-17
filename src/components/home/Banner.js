@@ -10,7 +10,7 @@ const slides = [
     cta: "Explore Ideas",
     href: "/ideas",
     gradient: "from-indigo-600 via-purple-600 to-pink-600",
-    tag: "🚀 Innovation Hub",
+    tag: " Innovation Hub",
   },
   {
     title: "Discover Trending Startups",
@@ -19,7 +19,7 @@ const slides = [
     cta: "View Trending",
     href: "/ideas",
     gradient: "from-emerald-500 via-teal-500 to-cyan-500",
-    tag: "🔥 Trending Now",
+    tag: " Trending Now",
   },
   {
     title: "Validate Before You Build",
@@ -28,7 +28,7 @@ const slides = [
     cta: "Share Your Idea",
     href: "/add-idea",
     gradient: "from-orange-500 via-amber-500 to-yellow-400",
-    tag: "✅ Community Validated",
+    tag: " Community Validated",
   },
 ];
 
