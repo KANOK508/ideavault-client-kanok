@@ -18,10 +18,10 @@ import { HiLightBulb } from "react-icons/hi";
 
 const navLinks = [
   { href: "/", label: "Home" },
-  { href: "/ideas", label: "Ideas" },
-  { href: "/add-idea", label: "Add Idea", private: true },
-  { href: "/my-ideas", label: "My Ideas", private: true },
-  { href: "/my-interactions", label: "My Interactions", private: true },
+  { href: "/ideas", label: "IDEAS" },
+  { href: "/add-idea", label: "ADD IDEA", private: true },
+  { href: "/my-ideas", label: "MY IDEAS", private: true },
+  { href: "/my-interactions", label: "MY INTERACTION", private: true },
 ];
 
 export default function Navbar() {
@@ -44,8 +44,8 @@ export default function Navbar() {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2 group">
-            <HiLightBulb className="text-3xl text-indigo-600 group-hover:rotate-12 transition-transform duration-300" />
-            <span className="text-xl font-extrabold text-indigo-600 tracking-tight">
+            <HiLightBulb className="text-3xl text-yellow-600 group-hover:rotate-12 transition-transform duration-300" />
+            <span className="text-xl font-extrabold text-yellow-600 tracking-tight">
               IdeaVault
             </span>
           </Link>

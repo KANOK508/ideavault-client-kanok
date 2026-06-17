@@ -97,7 +97,7 @@ export default function Footer() {
               href="mailto:hello@ideavault.io"
               className="text-indigo-400 hover:underline"
             >
-              hello@ideavault.io
+             kanokfaishalhaque018@gmail.com
             </a>
           </p>
         </div>
